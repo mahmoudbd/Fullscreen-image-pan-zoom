@@ -29,15 +29,17 @@
   cursor: pointer;
 }
 .panWrapper a.controls.in {
-  background-image: url("img/zoomIn.png");
+  background-image: url("https://img.icons8.com/ios/50/000000/plus--v1.png");
   margin-left: -30px;
 }
+
 .panWrapper a.controls.out {
-  background-image: url("img/zoomOut.png");
+  background-image: url("https://img.icons8.com/ios/50/000000/minus.png");
   margin-left: 30px;
 }
+
 .panWrapper a.controls.close {
-  background-image: url("img/close.png");
+  background-image: url("https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-close-banking-and-finance-kiranshastry-lineal-color-kiranshastry.png");
   left: auto;
   right: 30px;
   top: 30px;
